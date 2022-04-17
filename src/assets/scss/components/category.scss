@@ -1,0 +1,33 @@
+@import '../main/vars.scss';
+
+.category {}
+
+.category h2 {}
+
+.category h3 {}
+
+.category__row {}
+
+.category__item {}
+
+.category__img {}
+
+.category__text {}
+
+
+.category {
+    h2 {
+        text-decoration: underline;
+    }
+
+    h3 {
+    }
+
+    &__row {}
+
+    &__item {}
+
+    &__img {}
+
+    &__text {}
+}
